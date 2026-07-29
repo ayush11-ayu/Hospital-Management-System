@@ -377,16 +377,6 @@ Hospital-Management-System/
 
 ---
 
-# 💼 Suitable For
-
-This project demonstrates practical Salesforce Administrator skills and can be included in:
-
-- Resume
-- GitHub Portfolio
-- LinkedIn Projects
-- Salesforce Administrator Interviews
-
----
 
 # 👨‍💻 Author
 
